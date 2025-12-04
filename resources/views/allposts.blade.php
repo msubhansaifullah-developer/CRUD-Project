@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-10">
+            <div class="col-12">
                 <div id="postcontainer">
                    
                 </div>
